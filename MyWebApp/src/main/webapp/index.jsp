@@ -7,6 +7,6 @@
 <body bgcolor="pink">
 <h1 bgcolor="red"> WELCOME April and May DevOps Batch!!!!!!!!</h1>
 <hr><marquee width="50%"><font face="impact" color="green" size="4">@@@@ We Are The The Devops Engineers And We Are Responsble For Storing Data In Cloud By Using AWS @@@@</marquee><hr>
-  
+<img src="C:\Users\marol\OneDrive\Desktop\CICDPRO.jpg">  
 </body>
 </html>
