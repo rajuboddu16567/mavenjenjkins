@@ -6,7 +6,7 @@
     </head>
 <body bgcolor="pink">
 <h1 bgcolor="red"> WELCOME April and May DevOps Batch!!!!!!!!</h1>
-<hr><marquee bgcolor="green" fontsize="16">@@@@ We Are The The Devops Engineers And We Are Responsble For Storing Data In Cloud By Using AWS @@@@</marquee><hr>
+<hr><marquee><font face="impact" color="green" size="8">@@@@ We Are The The Devops Engineers And We Are Responsble For Storing Data In Cloud By Using AWS @@@@</marquee><hr>
   
 </body>
 </html>
